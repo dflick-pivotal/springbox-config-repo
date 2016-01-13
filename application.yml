@@ -1,7 +1,7 @@
 configserver: true
 bus: true
 
-dieter:dieter
+dieter: dieter
 
 eureka:
   instance:
