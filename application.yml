@@ -1,6 +1,8 @@
 configserver: true
 bus: true
 
+dieter:dieter
+
 eureka:
   instance:
     leaseRenewalIntervalInSeconds: 10
